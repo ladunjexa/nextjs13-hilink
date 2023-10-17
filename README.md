@@ -147,7 +147,7 @@ This is a TypeScript code contains all the types used in the application, more p
 
 ## :space_invader: Technologies Used
 
-Nike web application is built using the following technologies:
+Hilink web application is built using the following technologies:
 
 - [TypeScript](https://www.typescriptlang.org/): TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 - [Next.js](https://nextjs.org/): Next.js is an open-source React front-end development web framework created by Vercel that enables functionality such as server-side rendering and generating static websites for React based web applications.
